@@ -20,7 +20,7 @@ To make the data easier to analyze, I created these categories:
 ## 💡 Business Insights & Recommendations
 * *Fix Mobile Checkout:* There is a huge 85% abandonment rate. Because Desktop bookings are 4% more successful than Mobile, the airline should fix technical or user-experience issues on mobile devices to stop losing those ~50,000 booking attempts.
 * *Solo Traveler Comfort:* 63% of passengers are traveling alone, but only 30% pay to pick a seat. Since flights average 7.3 hours, the airline should market "extra space" or "solo-friendly" seating specifically to these solo travelers.
-* *Promotional Timing:* Add-on services like extra baggage (67%) and meal requests (43%) are big revenue earners. These peak between 4 PM – 6 PM, so the airline should offer "last-minute" add-ons during this time to catch more buyers.
+* *Promotional Timing:* While the highest volume of completed bookings happens in the evening (4 PM – 6 PM), the demand for add-on services actually peaks between 6 AM and 2 PM. 🕓 This suggests that evening travelers might be rushing to finish. To boost revenue, we should offer targeted add-on bundles during the evening peak to encourage those high-volume bookers to customize their flights.
 * *Smart Booking Strategies:* Booking is highest on Wednesdays and for short stays. The airline should use "Limited Time" urgency messages for short-stay travelers, but offer "Save for Later" options for people planning more complex, long-lead trips.
 ## 📁 Project Structure
 * Austrian Airlines.xlsx: The main Excel workbook containing the raw data, cleaning steps, and the final interactive dashboard.
